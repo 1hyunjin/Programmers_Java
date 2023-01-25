@@ -27,9 +27,5 @@ public class common {
         int[] b = {2,4,8};
         solution(a);
         solution(b);
-
-
-
-
     }
 }
