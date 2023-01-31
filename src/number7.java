@@ -1,5 +1,5 @@
 public class number7 {
-
+    //숫자 7 개수 출력
     static void solution(int[] arr){
         int count = 0;
         for (int i = 0; i < arr.length; i++) {
