@@ -1,6 +1,7 @@
 import java.util.Arrays;
 
 public class StringSort {
+    //소문자로 변경 후 sort
     static void swap(int a, int b){
         int tmp = a;
         a = b;
