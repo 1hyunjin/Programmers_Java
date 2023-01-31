@@ -1,5 +1,5 @@
 public class bacterialGrowth {
-    //세균 증식
+    //세균 증식, 이진수
     static void solution(int n, int t){
 //        int answer = n;
 //
