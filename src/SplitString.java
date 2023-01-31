@@ -1,7 +1,7 @@
 import com.sun.jdi.FloatValue;
 
 import java.util.Arrays;
-//문자열 자르기
+//문자열 자르기 (ex- 3개씩 잘라 배열에 출력)
 import static java.lang.Math.ceil;
 
 public class SplitString {
